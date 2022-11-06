@@ -5,3 +5,4 @@ WhatsApp
 4.Chat
 5.last seen
 6.Attachment File/Photo
+7.profile Page
