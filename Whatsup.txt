@@ -6,3 +6,4 @@ WhatsApp
 5.last seen
 6.Attachment File/Photo
 7.profile Page
+8.Add PDF document
